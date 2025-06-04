@@ -87,7 +87,7 @@ h1 {
 
 .seccion-clara {
     color: black;
-    background-color: white;
+    background-color: #d4e5f58e;
 }
 
 .seccion-titulo {
@@ -103,10 +103,10 @@ h1 {
     color: black;
     text-align: center; /* Asegurarse que la descripción esté centrada */
     margin-bottom: 30px; /* Espacio para que no se pegue al contenido siguiente */
-}
+   }
 
 .seccion-texto {
-    font-size: 16px;
+    font-size: 20px;
     line-height: 1.5;
     text-align: justify;
     padding: 0 15px; /* Añadir padding horizontal para que el texto no toque los bordes en móvil */
@@ -122,7 +122,7 @@ h1 {
 
 /* Seccion Hero */
 .hero {
-    background-color: #f5f6f7;
+    background-color: #c0d9f08e;
     min-height: 450px;
     text-align: center;
 }
